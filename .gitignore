@@ -1,6 +1,8 @@
 # build output
 build/
 dist/
+release/
+build-release/
 __pycache__/
 *.pyc
 
