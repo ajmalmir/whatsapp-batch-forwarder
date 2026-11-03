@@ -1,0 +1,17 @@
+# build output
+build/
+dist/
+__pycache__/
+*.pyc
+
+# personal data written by the app - never commit
+settings.json
+sent.txt
+sent*.txt
+sent.txt.old
+numbers.csv
+numbers-backup-*.csv
+*numbers*.csv
+exports/
+ui.xml
+*.xml
